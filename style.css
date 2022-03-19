@@ -58,7 +58,7 @@ a {
 .noticias{
     background-color: aquamarine;
     width: 450px;
-    height: 200px;
+    height: 230px;
     padding: 12px;
     padding-top: px;
     font-size:20px;
@@ -69,10 +69,10 @@ a {
 }
 div.po{
     padding: 10px;
-    padding-top: 30px;
+    padding-top: 35px;
     border: 2px solid;
     width: 280px;
-    height: 130px;
+    height: 140px;
     text-align: center;
     background-color: aliceblue;
 }
