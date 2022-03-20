@@ -70,8 +70,8 @@ a {
     padding-top: 30px;
 }
 div.po{
-    padding-top: 25px;
-    border: 2px solid;
+    padding: 20px;
+    border: 1px solid;
     width: 260px;
     height: 150px;
     text-align: center;
