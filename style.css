@@ -88,6 +88,7 @@ div.po{
     justify-content: center;
     padding: 12px;
     gap: 10px;
+    flex-shrink: 2;
     
 }
 
