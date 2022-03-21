@@ -70,18 +70,19 @@ a {
     padding-top: 30px;
 }
 div.po{
-    padding: 20px;
+    padding: 25px;
     border: 1px solid;
     width: 260px;
     height: 130px;
     text-align: center;
     background-color: aliceblue;
+    border-radius: 4px;
 }
 .contenio{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 10px;
+    gap: 5px;
     flex-shrink: 2;
     
 }
