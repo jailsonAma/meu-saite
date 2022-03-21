@@ -73,19 +73,14 @@ div.po{
     padding: 20px;
     border: 1px solid;
     width: 260px;
-    height: 150px;
+    height: 130px;
     text-align: center;
     background-color: aliceblue;
-}
-#poe{
-   width: 350px;
- 
 }
 .contenio{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 12px;
     gap: 10px;
     flex-shrink: 2;
     
